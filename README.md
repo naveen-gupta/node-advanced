@@ -1,2 +1,2 @@
-# node-advanced
-Node advanced concepts
+# AdvancedNodeStarter
+Starting project for a course on Advanced Node @ Udemy
